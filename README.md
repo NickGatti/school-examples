@@ -87,3 +87,17 @@ module.exports = {
 ```
 > $ webpack --watch
 ```
+
+## Git setup
+
+* Make new repository on git
+* Take note of remote origin path
+
+### Commands
+
+```
+> $ git init
+> $ git commit -m "first commit"
+> $ git remote add origin **YOUR ORIGIN**
+> $ git push -u origin master
+```
